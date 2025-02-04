@@ -5,3 +5,6 @@ Félicitation ! Bienvenue à votre premier dépôt !
 ## Mise en forme
 
 Le Read-me est un fichier markdown ( .md ) et permet de faire de la mise en forme facilement
+
+## Mise à jour en ligne
+Oops ! Il semble que j'ai un conflit !
